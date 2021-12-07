@@ -1,5 +1,5 @@
 {
-  "name": "aa-dekhen-zara",
+  "name": "fight-club",
   "private": true,
   "scripts": {
     "dev": "node server.js",
